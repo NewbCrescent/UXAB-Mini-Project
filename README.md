@@ -1,3 +1,7 @@
+# Summary
+
+This very simple todo app is built using React and for the UXAB mini-project. A highlight is how the items are sorted by date, the assignments that are due the latest are first. Took an estimated 2 - 3  hours to build this app.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
