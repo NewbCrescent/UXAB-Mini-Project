@@ -1,6 +1,8 @@
 # Summary
 
-This very simple todo app is built using React and for the UXAB mini-project. A highlight is how the items are sorted by date, the assignments that are due the latest are first. Took an estimated 2 - 3  hours to build this app.
+This very simple todo app is built using React and for the UXAB mini-project. The highlights are how the items are sorted by date, the assignments that are due the latest are first, and the use of useMemo and React.memo in order to improve performance with minimizing unecessary re-renders.
+
+Took an estimated 2 - 3  hours to build this app.
 
 # React + TypeScript + Vite
 
